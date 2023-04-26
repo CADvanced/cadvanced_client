@@ -1,0 +1,11 @@
+{
+    "__schema": {
+        "types": [
+            {
+                "kind": "UNION",
+                "name": "CharacterResult",
+                "possibleTypes": [{ "name": "Citizen" }, { "name": "Officer" }]
+            }
+        ]
+    }
+}
